@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppDemo</string>
+    <string name="Login">Login</string>
+    <string name="btnBack">Back</string>
+    <string name="btnNext">Next</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+</resources>
